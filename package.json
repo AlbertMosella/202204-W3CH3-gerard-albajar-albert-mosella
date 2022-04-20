@@ -1,0 +1,19 @@
+{
+  "name": "challengeseries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertMosella/202204-W3CH3-gerard-albajar-albert-mosella.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertMosella/202204-W3CH3-gerard-albajar-albert-mosella/issues"
+  },
+  "homepage": "https://github.com/AlbertMosella/202204-W3CH3-gerard-albajar-albert-mosella#readme"
+}
